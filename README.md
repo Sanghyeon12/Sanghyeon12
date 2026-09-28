@@ -10,8 +10,5 @@ B.S. in Computer Science, Eastern Michigan University (2026).
 ### Skills
 Python · Machine learning (supervised/unsupervised, model evaluation) · AutoDock Vina · PyMOL · JavaScript · HTML
 
-### Certifications
-- Machine Learning with Python, IBM (2026)
-
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/sanghyeon-jun-352500204/)
